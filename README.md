@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @estemzephyr
+- 👀 I’m interested in Software Architecture
+- 🌱 I’m currently learning Software Engineering and Mechatronics
+- 📫 How to reach me : linkedIn/estemaluche
